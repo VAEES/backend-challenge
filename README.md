@@ -13,7 +13,7 @@ Bom desafio!
 
 # 🧠 Contexto
 
-O desafio será implementar um e-commerce para venda de camisetas, canecas e adesivos que deverá ter as seguintes funcionalidades:
+O desafio será implementar uma **API** de e-commerce para venda de camisetas, canecas e adesivos que deverá ter as seguintes funcionalidades:
 - [ ] Catálogo de produtos com paginação
 - [ ] Busca por de produto por id
 - [ ] Permitir busca de produtos por categoria
