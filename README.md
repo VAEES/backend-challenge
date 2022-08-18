@@ -14,6 +14,7 @@ Bom desafio!
 # 🧠 Contexto
 
 O desafio será implementar uma **API** de e-commerce para venda de camisetas, canecas e adesivos que deverá ter as seguintes funcionalidades:
+- [ ] Gerenciamento de produtos (Criação, Deleção, Atualização)
 - [ ] Busca de produtos com paginação e com a possibilidade de utilização de filtros
 - [ ] Busca por de produto por id
 - [ ] Busca de produtos por categoria
