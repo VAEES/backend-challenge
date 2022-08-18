@@ -6,19 +6,20 @@ O objetivo deste desafio é avaliar suas habilidades de programação.
 Quando sua solução estiver pronta, basta responder o e-mail que recebeu com o link do seu repo aqui no Github!
 Em seguida, enviaremos o feedback e as instruções dos próximos passos!
 
-Caso tenha alguma dúvida, nós estamos disponíveis no email *lucas.cardoso@vaees.com*.
+Caso tenha alguma dúvida, nós estamos disponíveis no email *lucas.cardoso@b2rise.consulting*.
 Bom desafio!
 
-> ⚠️ **É importante que o seu repo esteja público, caso contrário não iremos conseguir avaliar sua resposta. Se você preferir, pode criar um repositório privado com acesso para o usuário** `mlucascardoso`.
+> ⚠️ **É importante que o seu repo seja público, caso contrário não iremos conseguir avaliar sua resposta. Se você preferir, pode criar um repositório privado com acesso para o usuário** `mlucascardoso`.
 
 # 🧠 Contexto
 
 O desafio será implementar uma **API** de e-commerce para venda de camisetas, canecas e adesivos que deverá ter as seguintes funcionalidades:
-- [ ] Catálogo de produtos com paginação
+- [ ] Busca de produtos com paginação e com a possibilidade de utilização de filtros
 - [ ] Busca por de produto por id
-- [ ] Permitir busca de produtos por categoria
-- [ ] Permitir busca de produtos por demais colunas da entidade Produto
-- [ ] Gerar pedido de compras com produtos selecionados
+- [ ] Busca de produtos por categoria
+
+Também seria muito legal se você também implementasse:
+- [ ] Geração de pedido de compras com produtos selecionados
 - [ ] Histórico de pedidos
 - [ ] Permitir filtrar pedidos gerados 
 
