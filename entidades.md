@@ -7,7 +7,7 @@
 
 | Column | DataType(size) |
 |---|:---:|
-|id|PRIMARY KEY|
+|id|PRIMARY KEY INTEGER AUTO INCREMENT OR UUID|
 |title|VARCHAR(30)|
 |price|DECIMAL(11,2)|
 |description|VARCHAR(100)|
@@ -19,7 +19,7 @@
 
 | Column | DataType(size) |
 |---|:---:|
-|id|PRIMARY KEY|
+|id|PRIMARY KEY INTEGER AUTO INCREMENT OR UUID|
 |email|VARCHAR(100)|
 |username|VARCHAR(50)|
 |password|VARCHAR(50)|
@@ -31,7 +31,7 @@
 
 | Column | DataType(size) |
 |---|:---:|
-|id|PRIMARY KEY|
+|id|PRIMARY KEY INTEGER AUTO INCREMENT OR UUID|
 |user_id|FK users|
 |date|DateTime|
 ---
@@ -43,3 +43,4 @@
 |product_id|FK products|
 |purchase_order_id|FK purchase_orders|
 |quantity|Integer|
+|pricel|Decimal(15,2)|
