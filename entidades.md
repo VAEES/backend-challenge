@@ -43,4 +43,4 @@
 |product_id|FK products|
 |purchase_order_id|FK purchase_orders|
 |quantity|Integer|
-|pricel|Decimal(15,2)|
+|price|Decimal(15,2)|
