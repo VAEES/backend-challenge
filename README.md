@@ -6,10 +6,10 @@ O objetivo deste desafio é avaliar suas habilidades de programação.
 Quando sua solução estiver pronta, basta responder o e-mail que recebeu com o link do seu repo aqui no Github!
 Em seguida, enviaremos o feedback e as instruções dos próximos passos!
 
-Caso tenha alguma dúvida, nós estamos disponíveis no email *lucas.cardoso@b2rise.consulting*.
+Caso tenha alguma dúvida, nós estamos disponíveis no email *recrutamento@b2rise.consulting*.
 Bom desafio!
 
-> ⚠️ **É importante que o seu repo seja público, caso contrário não iremos conseguir avaliar sua resposta. Se você preferir, pode criar um repositório privado com acesso para o usuário** `mlucascardoso`.
+> ⚠️ **É importante que o seu repo seja público, caso contrário não iremos conseguir avaliar sua resposta. Se você preferir, pode criar um repositório privado com acesso para o usuário** `mlucascardoso` e `notelho`.
 
 # 🧠 Contexto
 
