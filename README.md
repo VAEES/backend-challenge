@@ -9,7 +9,7 @@ Em seguida, enviaremos o feedback e as instruções dos próximos passos!
 Caso tenha alguma dúvida, nós estamos disponíveis no email *recrutamento@b2rise.consulting*.
 Bom desafio!
 
-> ⚠️ **É importante que o seu repo seja público, caso contrário não iremos conseguir avaliar sua resposta. Se você preferir, pode criar um repositório privado com acesso para o usuário** `mlucascardoso` e `notelho`.
+> ⚠️ **É importante que o seu repo seja público, caso contrário não iremos conseguir avaliar sua resposta. Se você preferir, pode criar um repositório privado com acesso para o usuário** `mlucascardoso`.
 
 # 🧠 Contexto
 
