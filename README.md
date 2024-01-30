@@ -9,10 +9,11 @@ Em seguida, enviaremos o feedback e as instruções dos próximos passos!
 Caso tenha alguma dúvida, nós estamos disponíveis no email *recrutamento@b2rise.consulting*.
 Bom desafio!
 
+> [!TIP]
 > ⚠️ **É importante que o seu repo seja público, caso contrário não iremos conseguir avaliar sua resposta. Se você preferir, pode criar um repositório privado com acesso para o usuário** `mlucascardoso`.
 
 > [!IMPORTANT]
-> Não faça fork deste repositório. Nos envie o seu código para o e-mail *recrutamento@b2rise.consulting*
+> Não faça fork deste repositório. Nos envie o seu código através do e-mail *recrutamento@b2rise.consulting*
 
 # 🧠 Contexto
 
