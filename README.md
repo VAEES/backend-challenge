@@ -13,7 +13,7 @@ Bom desafio!
 > ⚠️ **É importante que o seu repo seja público, caso contrário não iremos conseguir avaliar sua resposta. Se você preferir, pode criar um repositório privado com acesso para o usuário** `mlucascardoso`.
 
 > [!IMPORTANT]
-> Não faça fork deste repositório. Nos envie o seu código através do e-mail *recrutamento@b2rise.consulting*
+> Não faça fork deste repositório. Nos envie o seu repositório através do e-mail *recrutamento@b2rise.consulting*
 
 # 🧠 Contexto
 
