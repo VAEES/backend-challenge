@@ -10,6 +10,8 @@ Caso tenha alguma dúvida, nós estamos disponíveis no email *recrutamento@b2ri
 Bom desafio!
 
 > ⚠️ **É importante que o seu repo seja público, caso contrário não iremos conseguir avaliar sua resposta. Se você preferir, pode criar um repositório privado com acesso para o usuário** `mlucascardoso`.
+> [!IMPORTANT]
+> Não faça fork deste repositório. Nos envie o seu código para o e-mail *recrutamento@b2rise.consulting*
 
 # 🧠 Contexto
 
